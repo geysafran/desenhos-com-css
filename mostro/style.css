@@ -1,0 +1,192 @@
+#main {
+	
+}
+
+#container {
+	width: 100vw;
+	height: 100vh;
+	background-color: tomato;
+
+	
+}
+
+.monstro {
+	    width: 253px;
+    height: 235px;
+    background-color: #8B008B;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    border-radius: 140px;
+
+
+}
+
+.olho1 {
+	width: 55px;
+    height: 51px;
+    background-color: #fff;
+    position: absolute;
+    top: 143px;
+    left: 461px;
+    border-radius: 133px;
+}
+
+
+
+
+.nariz {
+    width: 27px;
+    height: 65px;
+    background-color: #000;
+    position: absolute;
+    top: 191px;
+    left: 417px;
+    border-radius: 43px;
+}
+
+.olho2 {
+       width: 55px;
+    height: 51px;
+    background-color: #fff;
+    position: absolute;
+    top: 143px;
+    left: 344px;
+    border-radius: 133px;
+
+
+
+}
+
+.orelha1 {
+	width: 71px;
+    height: 20px;
+    background-color: #c518e2;
+    position: absolute;
+    top: 143px;
+    left: 452px;
+    border-radius: 133px;
+
+}
+
+.orelha2 {
+	width: 71px;
+    height: 20px;
+    background-color: #c518e2;
+    position: absolute;
+    top: 143px;
+    left: 334px;
+    border-radius: 133px;
+}
+
+.corpo {
+	    width: 200px;
+    height: 300px;
+    background-color: #8B008B;
+    position: absolute;
+    top: 292px;
+    left: 334px;
+    border-radius: 133px;
+
+
+}
+
+.boca  {
+    width: 49px;
+    height: 14px;
+    background-color: red;
+    position: absolute;
+    top: 268px;
+    left: 406px;
+    border-radius: 43px;
+}
+
+.ropa {
+	    width: 134px;
+    height: 185px;
+    background-color: #c518e2;
+    position: absolute;
+    top: 357px;
+    left: 367px;
+    border-radius: 133px;
+
+}
+
+.cabelo1 {
+	    width: 50px;
+    height: 50px;
+    background-color: #795548;
+    position: absolute;
+       top: 65px;
+    left: 410px;
+    border-radius: 53px;
+
+
+}
+
+.cabelo2 {
+	    width: 50px;
+    height: 50px;
+    background-color: #795548;
+    position: absolute;
+   top: 68px;
+    left: 370px;
+    border-radius: 53px;
+
+}
+
+.cabelo3 {
+	    width: 50px;
+    height: 50px;
+    background-color: #795548;
+    position: absolute;
+        top: 66px;
+    left: 453px;
+    border-radius: 53px;
+
+}
+
+
+.bilha1 {
+    width: 19px;
+    height: 18px;
+    background-color: #000;
+    position: absolute;
+    top: 163px;
+    left: 364px;
+    border-radius: 43px;
+
+}
+
+.bilha2 {
+	width: 19px;
+    height: 18px;
+    background-color: #000;
+    position: absolute;
+    top: 163px;
+    left: 478px;;
+    border-radius: 43px;
+}
+
+.narina1 {
+	width: 40px;
+    height: 23px;
+    background-color: #000;
+    position: absolute;
+    top: 236px;
+    left: 411px;
+    border-radius: 72px;
+
+}
+
+.narina2 {
+	width: 49px;
+    height: 14px;
+    background-color: red;
+    position: absolute;
+    top: 268px;
+    left: 406px;
+    border-radius: 43px;
+
+
+}
